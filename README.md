@@ -4,7 +4,7 @@
 
 This project is a realtime chat application built using Node.js, enabling seamless communication between users. Leveraging the power of Node.js, this application offers instant messaging capabilities, facilitating real-time interaction and collaboration. With its robust backend architecture, users can engage in dynamic conversations, making it ideal for team communication, customer support, or social interaction.
 
-#### Demo: http://localhost:3000
+#### Run the Server:    https://0cc2-117-216-171-211.ngrok-free.app 
 
 ## Installation 
 After download or clone run `npm install` to install all the dependancies.
