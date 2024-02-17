@@ -27,4 +27,14 @@ The command "npm run dev" is used to execute the development script defined in a
 
 `npm run dev`
 
+Output:-
+![image](https://github.com/Nataraj2001/Realtime-Chat-App/assets/106070514/7178dd20-d6ec-47c8-b87c-21950e5bf859)
+User:Nataraj
+
+![image](https://github.com/Nataraj2001/Realtime-Chat-App/assets/106070514/1a5a8f71-f0e9-4e23-9a4c-488b9d36fe91)
+
+![image](https://github.com/Nataraj2001/Realtime-Chat-App/assets/106070514/e786a5d9-3a98-4d21-adc2-28972e1ef4f6)
+
+
+
 
